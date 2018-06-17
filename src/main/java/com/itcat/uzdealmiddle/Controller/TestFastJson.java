@@ -1,7 +1,7 @@
 package com.itcat.uzdealmiddle.Controller;
 
 import com.alibaba.fastjson.JSONObject;
-import com.itcat.uzdealmiddle.domain.User;
+import com.itcat.uzdealmiddle.vo.User;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

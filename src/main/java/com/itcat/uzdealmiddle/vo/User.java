@@ -1,4 +1,4 @@
-package com.itcat.uzdealmiddle.domain;
+package com.itcat.uzdealmiddle.vo;
 
 import lombok.Data;
 

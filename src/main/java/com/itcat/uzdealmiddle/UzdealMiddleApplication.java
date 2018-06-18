@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class UzdealMiddleApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(UzdealMiddleApplication.class, args);
     }
 }
